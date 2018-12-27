@@ -6,6 +6,6 @@ public class Main {
     }
 
     private static int getInt(){
-        return new Random().nextInt(); //123
+        return new Random().nextInt();
     }
 }
